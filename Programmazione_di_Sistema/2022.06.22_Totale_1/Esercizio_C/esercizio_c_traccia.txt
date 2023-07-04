@@ -1,9 +1,0 @@
-Esercizio C (1 punto)
-Si scrivano i seguenti costrutti C
-    1.  dichiarazione di una variabile vp di tipo puntatore a funzione che ha risultato di tipo int e un
-        parametro di tipo float
-    2.  istruzione di assegnamento a vp di un valore puntatore a funzione che ha risultato di tipo
-        int e un parametro di tipo float
-    3.  chiamata della funzione puntata da vp (tramite vp)
-    4.  dichiarazione di un array avp di lunghezza 5, icui elementi hanno tipo puntatore a funzione
-        che ha risultato di tipo int e un parametro di tipo float
